@@ -1,0 +1,18 @@
+.smiley {
+  fill: rgb(122, 80, 26);
+}
+.main-circle {
+  fill: #ffd000;
+  stroke: none;
+}
+.left-eye {
+  fill: rgba(176, 34, 34, 0.287);
+}
+.right-eye {
+  fill: rgba(176, 34, 34, 0.287);
+}
+.mouth {
+  stroke: hsl(46, 68%, 48%);
+  stroke-width: 20;
+  stroke-linecap: round;
+}
